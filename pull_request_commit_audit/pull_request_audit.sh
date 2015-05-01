@@ -100,5 +100,5 @@ for commit in $commits_in_repo; do
  fi
 done
 
-echo "Commits that did not go thorugh a pull request:"
+echo "Commits that did not go through a pull request:"
 echo $commits_not_included_in_pull_requests
