@@ -25,6 +25,6 @@ merged directly without going through a pull request first.
 
 **output**
 ```
-Commits that did not go thorugh a pull request:
+Commits that did not go through a pull request:
 "5417713ed9248e955966c817d911f97d10843762","7caf71d837e0ede367b23e62de4922ab308b7c96","1387281f081746da03fa5e4e3082393d5fed7083","04d26b7c38c3a38e249b372002db0482018c1646"
 ```
